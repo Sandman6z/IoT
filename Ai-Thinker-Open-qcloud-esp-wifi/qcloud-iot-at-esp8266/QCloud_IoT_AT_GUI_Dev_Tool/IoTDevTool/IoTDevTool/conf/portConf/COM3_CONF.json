@@ -1,0 +1,10 @@
+{
+    "BaudRate": 115200,
+    "DataBits": 8,
+    "DeviceName": "",
+    "DeviceSecret": "",
+    "FlowControl": 0,
+    "Parity": 0,
+    "ProductID": "",
+    "StopBits": 1
+}

@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=PA15 Pin=JP1-27
+Added Pin To Net: NetName=PD0 Pin=JP1-29
+Added Pin To Net: NetName=PD1 Pin=JP1-31
+Added Pin To Net: NetName=PD2 Pin=JP1-33
+Added Pin To Net: NetName=PD3 Pin=JP1-35
+Added Pin To Net: NetName=PB3 Pin=JP1-37
+Added Pin To Net: NetName=PB4 Pin=JP1-39
+Added Pin To Net: NetName=PB5 Pin=JP1-41
+Added Pin To Net: NetName=CH340_RX Pin=JP1-43
+Added Pin To Net: NetName=CH340_TX Pin=JP1-45
+Added Pin To Net: NetName=PB8 Pin=JP1-47
+Added Pin To Net: NetName=PB9 Pin=JP1-49

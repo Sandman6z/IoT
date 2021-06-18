@@ -1,0 +1,4 @@
+stm32g0xx_ll_spi.h:1357:22:LL_SPI_TransmitData8	24	static
+ws2812.c:7:6:WS2812_ColorBuff2SPIBuff	24	static
+ws2812.c:37:6:WS2812_SETRGB	16	static
+ws2812.c:59:6:WS2812_SHOWALL	16	static

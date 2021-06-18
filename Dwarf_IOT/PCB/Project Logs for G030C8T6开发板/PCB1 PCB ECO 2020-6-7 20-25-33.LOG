@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=PC15 Pin=JP1-46
+Added Pin To Net: NetName=PC14 Pin=JP1-48
+Added Pin To Net: NetName=PC13 Pin=JP1-50
+Added Room: Name=ESP32-S
+Added Room: Name=MPU6050
+Added Room: Name=OLED0.96
+Added Room: Name=STM32
+Added Room: Name=USB

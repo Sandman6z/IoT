@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=3.3V Pin=C17-2
+Removed Member From Class: ClassName=STM32 Member=C17
+Added Component: Designator=R10(R 0603_L)
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=SWD_SCL Pin=R10-2
+Added Member To Class: ClassName=STM32 Member=Component R10 10K
+Added Room: Name=ESP32-S
+Added Room: Name=MPU6050
+Added Room: Name=OLED0.96
+Added Room: Name=STM32
+Added Room: Name=USB

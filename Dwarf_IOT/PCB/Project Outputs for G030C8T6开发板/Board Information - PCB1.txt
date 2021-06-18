@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\zhong\Desktop\NETUBE\G030C8T6¿ª·¢°å\PCB\PCB1.PcbDoc
+Date         : 2020/6/22
+Time         : 2:28:06
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 201
+    Connections routed, 201
+    Connections remaining, 0
+count : 4

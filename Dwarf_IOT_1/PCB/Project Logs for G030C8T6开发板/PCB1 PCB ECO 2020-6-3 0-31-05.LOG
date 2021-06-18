@@ -1,0 +1,17 @@
+Added Component: Designator=U1(QFN24 4x4_N)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3.3V Pin=U1-8
+Added Pin To Net: NetName=NetR5_2 Pin=U1-9
+Added Pin To Net: NetName=NetC3_2 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=3.3V Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=NetC2_2 Pin=U1-20
+Added Pin To Net: NetName=IIC2_SCL Pin=U1-23
+Added Pin To Net: NetName=IIC2_SDA Pin=U1-24
+Added Member To Class: ClassName=MPU6050 Member=Component U1 MPU6050
+Added Room: Name=ESP32-S
+Added Room: Name=MPU6050
+Added Room: Name=OLED0.96
+Added Room: Name=STM32
+Added Room: Name=USB
