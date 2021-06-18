@@ -1,7 +1,0 @@
-stm32g0xx_ll_bus.h:423:22:LL_APB1_GRP1_EnableClock	24	static
-stm32g0xx_ll_bus.h:1000:22:LL_IOP_GRP1_EnableClock	24	static
-stm32g0xx_ll_spi.h:359:22:LL_SPI_Enable	16	static
-stm32g0xx_ll_spi.h:427:22:LL_SPI_SetStandard	16	static
-stm32g0xx_ll_spi.h:875:22:LL_SPI_DisableNSSPulseMgt	16	static
-stm32g0xx_ll_spi.h:1228:22:LL_SPI_EnableDMAReq_TX	16	static
-spi.c:5:6:SPI2_Init	80	static

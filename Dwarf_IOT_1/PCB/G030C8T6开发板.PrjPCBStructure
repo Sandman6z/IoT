@@ -1,6 +1,0 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc
-Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=ESP32-S|SchDesignator=ESP32-S|FileName=ESP32.SchDoc|SymbolType=Normal|RawFileName=ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=MPU6050|SchDesignator=MPU6050|FileName=MPU6050.SchDoc|SymbolType=Normal|RawFileName=MPU6050.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=OLED0.96|SchDesignator=OLED0.96|FileName=OLED.SchDoc|SymbolType=Normal|RawFileName=OLED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=STM32|SchDesignator=STM32|FileName=STM32G030C8.SchDoc|SymbolType=Normal|RawFileName=STM32G030C8.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=USB|SchDesignator=USB|FileName=USB_POWER.SchDoc|SymbolType=Normal|RawFileName=USB_POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

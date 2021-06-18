@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=PF0 Pin=JP1-44
-Removed Pin From Net: NetName=PF0 Pin=U3-9
-Added Pin To Net: NetName=PF0 Pin=U3-8
-Added Pin To Net: NetName=PF1 Pin=JP1-44
-Added Pin To Net: NetName=PF1 Pin=U3-9
-Added Net: Name=PF1

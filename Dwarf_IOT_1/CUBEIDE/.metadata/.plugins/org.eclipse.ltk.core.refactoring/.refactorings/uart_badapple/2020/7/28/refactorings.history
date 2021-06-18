@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;uart_badapple/Core/Inc/WS2812.h&apos; to &apos;ws2812.h&apos;" description="Rename resource &apos;WS2812.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/WS2812.h" name="ws2812.h" stamp="1594308563486" updateReferences="true"/>
-</session>

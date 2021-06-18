@@ -1,7 +1,0 @@
-Added Component: Designator=LOGO?(LOGO)
-Added Member To Class: ClassName=USB Member=Component LOGO? Bilibili
-Added Room: Name=ESP32-S
-Added Room: Name=MPU6050
-Added Room: Name=OLED0.96
-Added Room: Name=STM32
-Added Room: Name=USB

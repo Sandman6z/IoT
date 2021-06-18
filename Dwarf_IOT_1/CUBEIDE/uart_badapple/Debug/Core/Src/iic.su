@@ -1,7 +1,0 @@
-stm32g0xx_ll_bus.h:423:22:LL_APB1_GRP1_EnableClock	24	static
-stm32g0xx_ll_bus.h:1000:22:LL_IOP_GRP1_EnableClock	24	static
-stm32g0xx_ll_i2c.h:391:22:LL_I2C_Enable	16	static
-stm32g0xx_ll_i2c.h:649:22:LL_I2C_DisableSlaveByteControl	16	static
-stm32g0xx_ll_i2c.h:1838:22:LL_I2C_EnableAutoEndMode	16	static
-stm32g0xx_ll_i2c.h:2036:22:LL_I2C_SetSlaveAddr	16	static
-iic.c:3:6:I2C2_Init	72	static
